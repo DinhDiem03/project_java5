@@ -1,0 +1,117 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  box-sizing: border-box;
+}
+.logo {
+  padding-top: 10px;
+}
+.icon {
+  padding-top: 17px;
+}
+
+#previous,
+#center,
+#next {
+  background-color: black;
+}
+#button_previous,
+#button_next {
+  background-color: black;
+}
+.featured {
+  margin-top: 50px;
+  text-align: center;
+  font-weight: bold;
+}
+.menu-product {
+  margin-bottom: 30px;
+}
+.card-text {
+  text-align: center;
+}
+.card-number {
+  text-align: center;
+  font-weight: bold;
+}
+.box-card {
+  margin-top: 20px;
+}
+.banner {
+  margin-top: 30px;
+  text-align: center;
+}
+.from-the-blog {
+  text-align: center;
+  margin-top: 100px;
+  font-weight: bold;
+  margin-bottom: 30px;
+}
+.card-text-bold {
+  font-weight: bold;
+  margin-bottom: 30px;
+  
+}
+.text-link-blog{
+    text-decoration: none;
+    color: black;
+}
+.blog {
+  margin-bottom: 50px;
+}
+.logo2 {
+  margin-bottom: 30px;
+}
+.item-link {
+  text-decoration: none;
+}
+.text-address {
+  color: black;
+}
+.userful-link {
+  font-weight: bold;
+  margin-left: 80px;
+}
+.link {
+  float: left;
+  margin-left: 50px;
+  margin-right: 50px;
+  list-style: none;
+}
+.link2 {
+  float: left;
+  margin-right: 50px;
+  list-style: none;
+  text-decoration: none;
+}
+.link-address {
+  text-decoration: none;
+}
+.join-out {
+  font-weight: bold;
+}
+.get-email {
+  margin-bottom: 30px;
+}
+.btn-circle {
+  width: 30px;
+  height: 30px;
+  text-align: center;
+  padding: 6px 0;
+  font-size: 12px;
+  line-height: 1.428571429;
+  border-radius: 15px;
+  background-color: rgb(29, 133, 218);
+}
+.icon-hang {
+  display: flex;
+  list-style: none;
+}
+.li-icon {
+  margin-right: 20px;
+}
+.footer{
+    background-color: #f5f5f5;
+    padding-top: 70px;
+    margin-top: 20px;
+}
